@@ -88,3 +88,35 @@ except Exception as e:
 
 
 print("\nProject completed successfully!")
+
+
+
+
+
+
+
+
+
+
+# OUTPUT :
+
+Text file created successfully.
+
+Text file content:
+Hello, this is my Python project.
+I am learning file handling.
+
+CSV file created successfully.
+
+CSV file content:
+['Name', 'Age', 'Course']
+['Asmita', '20', 'Computer Science']
+['Rahul', '21', 'Computer Science']
+
+File renamed successfully.
+File moved successfully.
+File deleted successfully.
+
+Project completed successfully!
+
+Process finished with exit code 0
